@@ -1,0 +1,23 @@
+.r-header {
+  background: #434E5E;
+  color: rgba(255, 255, 255, 0.9);
+  height: 220px;
+}
+
+.r-header .picture {
+  width: 220px;
+}
+
+.r-header .name {
+  font-size: 2.25rem;
+  letter-spacing: 0.175rem;
+  font-weight: 900;
+}
+
+.r-header .title {
+  font-size: 1.5rem;
+}
+
+.r-header a {
+  color: rgba(255, 255, 255, 0.6);
+}
